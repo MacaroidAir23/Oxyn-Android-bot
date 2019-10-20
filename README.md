@@ -47,7 +47,7 @@ OXYN Android Bot (4.4-10.0)
 ---
 # Contacts
 - Jabber/XMPP - Oxyn@exploit.im | oxyn@danwin1210.me
-- Email - oxyn@danwin1210.me
+- Email - oxynbot@gmail.com | oxyn@danwin1210.me
 ---
 Educational purpose only! We are not responsible for illegal actions!
    
