@@ -4,7 +4,7 @@ OXYN Android Bot (4.4-10.0)
 
 ## 🏦 Project created and maintained by Oxyn-Team 🏦
 
-## Powerful & Stable Android Bot. Able to install Hidden and Remotely. Compatible for 4.4 kitkat up to new 10.0
+## Powerful & Stable Android Bot. Able to install Hidden and Remotely. Compatible 4.4 kitkat up to new 10.0
 ---
 
 # Features
